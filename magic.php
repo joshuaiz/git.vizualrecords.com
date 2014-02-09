@@ -8,3 +8,5 @@
 </div>
 
 <?php get_footer(); ?>
+
+<!-- this is some magic -->
